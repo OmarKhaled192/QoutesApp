@@ -1,0 +1,21 @@
+#task h1  {
+  font-size: 80px;
+  font-weight: 700;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #000;
+}
+#task p {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+}
+#task button {
+  padding-inline: 75px;
+  padding-block: 25px;
+  background-color: blue;
+  color: #fff;
+  cursor: default;
+}
+#task button:hover {
+  background-color: green;
+}
